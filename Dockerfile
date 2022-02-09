@@ -1,5 +1,5 @@
 FROM denoland/deno:alpine-1.18.2
-EXPOSE 5000
+EXPOSE 8000
 WORKDIR /app
 USER deno
 
